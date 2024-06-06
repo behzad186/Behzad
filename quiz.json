@@ -1,0 +1,20 @@
+{
+  "shortDescription": "Test your movie knowledge with this quiz By behzad185.",
+  "questions": [
+    {
+      "question": "Who directed 'Inception'?",
+      "answers": ["Nolan", "Spielberg", "Cameron"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who played the Joker in 'Joker'?",
+      "answers": ["Phoenix", "Ledger", "Depp"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Frodo's last name?",
+      "answers": ["Baggins", "Gamgee", "Brandy"],
+      "correctAnswerIndex": 0
+    }
+  ]
+}
